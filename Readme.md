@@ -1,2 +1,2 @@
 
-![image](./assets/nips_main.png)
+![image](./asset/nips_main.png)
