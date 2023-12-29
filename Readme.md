@@ -1,4 +1,5 @@
-<h2 align="center"> <a href="https://github.com/umarkhalidAI/LatentEditor">Free-Editor: Zero-shot Text-driven 3D Scene Editing</a></h2>
+<h2 align="center"> <a href="https://github.com/umarkhalidAI/LatentEditor">
+SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.  </h2>
 
 <h5 align="center">
