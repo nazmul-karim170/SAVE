@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://github.com/umarkhalidAI/LatentEditor">
+<h2 align="center"> <a href="https://github.com/nazmul-karim170/SAVE-Text2Video-Diffusion">
 SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing</a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.  </h2>
 
