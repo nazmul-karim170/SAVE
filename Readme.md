@@ -41,7 +41,7 @@ Welcome to **watch** 👀 this repository for the latest updates.
 <img src="asset/Main.png"/>
 
 
-## 🚀 3D-Editing Results
+## 🚀 Video-Editing Results
 
 ### Qualitative comparison
 
