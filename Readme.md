@@ -20,20 +20,21 @@ SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided 
 
 SAVE allows you to edit your video in a matter of **3 minutes!** instead of **30 minutes!** in SOTA. 
 
-
-
 ### 💡 Efficient, High-quality, and Fast-speed
 - Stable Diffusion (SD) for image generation   -->   high-quality
 - Only fine-tune the Singular Values of the Query Matrices  --> Efficient Adaptation
+- Regularize the singular value updates 
 
 
 ## 🚩 **Updates**
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
-✅ **[2023.12.1]** : We have released our paper, Free-Editor on [arXiv](https://arxiv.org/abs/2312.13663).
+✅ **[2023.06.07]** : We have released our code
 
-✅ **[2023.12.1]** : Release [project page](https://save-textguidedvideoediting.github.io/).
+✅ **[2023.12.01]** : We have released our paper, SAVE on [arXiv](https://arxiv.org/abs/2305.18670).
+
+✅ **[2023.12.01]** : Release [project page](https://save-textguidedvideoediting.github.io/).
 - [ ] Code release.
 
 ## 🛠️ Methodology
