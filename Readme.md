@@ -35,7 +35,7 @@ Welcome to **watch** 👀 this repository for the latest updates.
 ✅ **[2023.12.01]** : We have released our paper, SAVE on [arXiv](https://arxiv.org/abs/2305.18670).
 
 ✅ **[2023.12.01]** : Release [project page](https://save-textguidedvideoediting.github.io/).
-- [ ] Code release.
+
 
 ## 🛠️ Methodology
 
