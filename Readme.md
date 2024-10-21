@@ -30,7 +30,7 @@ SAVE allows you to edit your video in a matter of **3 minutes!** instead of **30
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
-✅ **[2023.06.07]** : We have released our code
+✅ **[2024.06.07]** : We have released our code
 
 ✅ **[2023.12.01]** : We have released our paper, SAVE on [arXiv](https://arxiv.org/abs/2305.18670).
 
